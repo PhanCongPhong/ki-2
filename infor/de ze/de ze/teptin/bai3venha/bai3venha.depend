@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1463325126 source:c:\users\luong quoc lee\desktop\teptin\bai3venha\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1463353593 source:c:\users\luong quoc lee\desktop\de ze\teptin\bai3venha\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+

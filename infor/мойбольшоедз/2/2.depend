@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495321213 source:c:\users\khanhdang\desktop\laptrenlop\bai tap lon\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+

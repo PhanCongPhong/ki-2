@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{   int n,count=0;
+    scanf("%x", &n);
+    for (int i = 1; i <= 8; ++i)
+    {
+      if (i%2==1){count++;}
+      if ((n >> i)==0)
+      {
+        break;
+      }
+    }
+    return 0;
+}

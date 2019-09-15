@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463327155 source:c:\users\luong quoc lee\desktop\teptin\laythoigian\main.c
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
